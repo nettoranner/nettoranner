@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+
+**Python Backend Developer**
+I specialize in building microservice architectures, designing robust APIs, and integrating LLM solutions into production environments.
+
+### 📫 Let's Connect
+- **Email:** mattioffwork@gmail.com
+
 
 <!--
 **nettoranner/nettoranner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
