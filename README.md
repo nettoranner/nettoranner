@@ -4,7 +4,7 @@
 I specialize in building microservice architectures, designing robust APIs, and integrating LLM solutions into production environments.
 
 ### 📫 Let's Connect
-- **Email:** mattioffwork@gmail.com
+- **Email:** nettomatdev@gmail.com
 
 
 <!--
