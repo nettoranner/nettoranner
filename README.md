@@ -1,11 +1,9 @@
-# Hi there 👋
-
-**Python Backend Developer**
-I specialize in building microservice architectures, designing robust APIs, and integrating LLM solutions into production environments.
-
 ### 📫 Let's Connect
 - **Email:** nettomatdev@gmail.com
-
+- **Telegram:** [@jughwork](https://t.me/jughwork)
+- **YouTube Channel:** [NettoMatt](https://youtube.com/@NettoMatt)
+- **LinkedIn:** [Matvei](https://www.linkedin.com/in/matveiberezin/)
+- **My own website:** [nettomattdev](https://nettomattdev.com)
 
 <!--
 **nettoranner/nettoranner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
